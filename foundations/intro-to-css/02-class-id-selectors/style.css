@@ -1,0 +1,24 @@
+.AClass {
+  color: black;
+  background-color: red;
+  font-family: "Verdana", sans-serif;
+  font-size: 20px;
+}
+
+.AClass.CoolClass {
+  font-family: "DejaVu Sans", sans-serif;
+  font-size: 30px;
+}
+
+#oneID {
+  color: blue;
+  font-family: "Times New Roman", serif;
+  font-size: 40px;
+}
+
+#twoID {
+  color: black;
+  background-color: green;
+  font-family: "Times New Roman", serif;
+  font-size: 35px;
+}
